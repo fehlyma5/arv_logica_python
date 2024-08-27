@@ -1,0 +1,25 @@
+print('\033[1;31;42m TESTE\033[m')
+#tava errando pk nao colocava o final com m na primeira parte
+estilo-0 = ("none e/ou nada")
+estilo-1 = ("bold e/ou negrito")
+estilo-4 = ("underline e/ou sublinhado")
+estilo-7 = ("negative e/ou inverso")
+#esses sao styles da fonte
+texto-30 = ("branco/white")
+texto-31 = ("vermelho/red")
+texto-32 = ("verde/green")
+texto-33 = ("amarelo/yellou")
+texto-34 = ("azul/blue")
+texto-35 = ("roxo/purple")
+texto-36 = ("azul ocenano/ocean")
+texto-37 = ("cinza/grey")
+#numero + cor da fonte, chamado de text
+fundo-40 = ("branco/white")
+fundo-41 = ("vermelho/red")
+fundo-42 = ("verde/green")
+fundo-43 = ("amarelo/yellou")
+fundo-44 = ("azul/blue")
+fundo-45 = ("roxo/purple")
+fundo-46 = ("azul ocenano/ocean")
+fundo-47 = ("cinza/grey")
+#cores do fundo da letra chamado de backgroud

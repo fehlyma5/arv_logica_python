@@ -1,0 +1,14 @@
+No Python, lambda é uma função anônima composta apenas por expressões. As funções
+lambda podem ter apenas uma linha, e podem ser atribuídas a uma variável. Funções
+lambda são muito usadas em programação funcional.
+Sintaxe:
+lambda <lista de variáveis>: <expressões >
+Exemplo:
+# Amplitude de um vetor 3D
+amp = lambda x, y, z: (x ** 2 + y ** 2 + z ** 2) ** .5
+print amp(1, 1, 1)
+print amp(3, 4, 5)
+Saída:
+1.73205080757
+7.07106781187
+Funções lambda consomem menos recursos que as funções convencionais.
